@@ -1,0 +1,6 @@
+SB;345
+Adrian;123
+Adrian;85
+Franek;55
+Hubert;47
+Test;0

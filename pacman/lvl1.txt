@@ -1,0 +1,6 @@
+Adrian;123
+Hubert;113
+Kamil;111
+Franek;96
+Franek;85
+Kamil;59

@@ -1,0 +1,9 @@
+Adrian;223
+Test;123
+Adrian;113
+Hubert;111
+Adrian;85
+SB;55
+Test;34
+Borys;21
+Karton;19
